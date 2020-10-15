@@ -36,7 +36,7 @@ func main() {
   if treatment == "on" {
     fmt.Println("on")
   } else if treatment == "off" {
-    fmt.Println("off")
+    fmt.Println("THIS IS REALLY off")
   } else {
     fmt.Println(treatment)
   }
