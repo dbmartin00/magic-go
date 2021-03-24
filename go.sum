@@ -34,8 +34,12 @@ github.com/onsi/gomega v1.7.1/go.mod h1:XdKZgCCFLUoM/7CFJVPcG8C1xQ1AJ0vpAezJrB7J
 github.com/onsi/gomega v1.10.1/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/onsi/gomega v1.10.2/go.mod h1:iN09h71vgCQne3DLsj+A5owkum+a2tYe+TOCB1ybHNo=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
+github.com/splitio/go-client v0.0.0-20201006181645-1804d30cc2c2 h1:ONwJU2VHIVE4J7Fto12xvVmOzt0tdNUdhOBAj7aTgIA=
+github.com/splitio/go-client v0.0.0-20201006181645-1804d30cc2c2/go.mod h1:dJcPPOO+DlFMELdWAqGUcHTXGvGw0km+UEZJie7Hejk=
 github.com/splitio/go-client/v6 v6.0.0 h1:HrKTYOUVVqRE/VRwmlkBOdheuXlSdiMTty/y0efp8vM=
 github.com/splitio/go-client/v6 v6.0.0/go.mod h1:dTs/FpMfHb01sLso64uvudHFItiAW59ypqsK2Pbhuq4=
+github.com/splitio/go-split-commons v0.0.0-20201002201936-3e00dab75688 h1:po7Bo5qVAYZzE+5StLK1VtF0mYnJJY3FWOXehyRhUbo=
+github.com/splitio/go-split-commons v0.0.0-20201002201936-3e00dab75688/go.mod h1:w1uWXr+HcRVJLeoVyZucm+r3dt0W7zj7Sa9H2TCB3kA=
 github.com/splitio/go-split-commons/v2 v2.0.0 h1:OJ7A4HB593GVAbBn+5/aJ19IikNL4r9pOsuFC/0JbKc=
 github.com/splitio/go-split-commons/v2 v2.0.0/go.mod h1:iJVknIQ96Ezic+5FJ4vHYdqDfOV5w7s+w2wKjwgjFB0=
 github.com/splitio/go-toolkit/v3 v3.0.0 h1:aSLRWLFaOioGm6BgT4iGxZlZ74qSOAq7u8HW5wwv6oc=
